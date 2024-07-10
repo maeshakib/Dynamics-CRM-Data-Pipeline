@@ -9,3 +9,9 @@ An SSIS package solution to efficiently download and manage Microsoft Dynamics C
 <img  alt="process flow" width="900px" src="https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline/blob/main/CRM%20to%20ssis%20package%20process%20flow%20.png " />
 
 __**Fig 1: Full process flow**__
+
+
+
+<img  alt="process flow" width="900px" src="https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline/blob/main/package%20screenshot.png" />
+
+__**Fig 1: Package prepared for bulk data download screenshot**__
