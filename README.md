@@ -14,4 +14,4 @@ __**Fig 1: Full process flow**__
 
 <img  alt="process flow" width="900px" src="https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline/blob/main/package%20screenshot.png" />
 
-__**Fig 1: Package prepared for bulk data download screenshot**__
+__**Fig 2: Package prepared for bulk data download screenshot**__
